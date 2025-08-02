@@ -29,11 +29,16 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/benroshan/factors-affec
 4. A Streamlit app is created for user input and prediction
 5. The app shows “✅ Placed” or “❌ Not Placed” instantly
 
-## 📷 Streamlit App Screenshot
-## 📷 Streamlit App Screenshot
+## 📷 Streamlit App Screenshots
 
-![App Screenshot](https://github.com/prasanth07m/placement-predictor/blob/main/screenshot1.png)
+### 👇 Input Form
+![Screenshot 1](./Screenshot%202025-07-31%20221435.png)
 
+### ✅ Prediction: Placed
+![Screenshot 2](./Screenshot%202025-07-31%20221528.png)
+
+### ❌ Prediction: Not Placed
+![Screenshot 3](./Screenshot%202025-07-31%20221621.png)
 
 ## ▶️ How to Run
 ```bash
@@ -57,7 +62,10 @@ The Logistic Regression model achieved around **85–90% accuracy** on test data
 
 ## 👨‍💻 Contributors
 - Prasanth Bunga (2023-2415224)  
+- S. Lavankumar (2023-2415218)  
+- K. S S Navadeep (2023-2415216)  
+- M. Mahesh (2023-2415227)  
+- K. Sai Teja (2023-2415197)
 
 ## 📬 Contact
 📧 prasanthbunga07@gmail.com
-
