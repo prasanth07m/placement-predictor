@@ -30,7 +30,10 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/benroshan/factors-affec
 5. The app shows “✅ Placed” or “❌ Not Placed” instantly
 
 ## 📷 Streamlit App Screenshot
-*(Add a screenshot of your app UI here — optional)*
+## 📷 Streamlit App Screenshot
+
+![App Screenshot](https://github.com/prasanth07m/placement-predictor/blob/main/screenshot1.png)
+
 
 ## ▶️ How to Run
 ```bash
