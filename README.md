@@ -31,14 +31,14 @@ Dataset source: [Kaggle](https://www.kaggle.com/datasets/benroshan/factors-affec
 
 ## 📷 Streamlit App Screenshots
 
-### 👇 Input Form
-![Screenshot 1](./Screenshot%202025-07-31%20221435.png)
+### 👇 Input Form  
+![Screenshot 1](screenshot1.png)
 
-### ✅ Prediction: Placed
-![Screenshot 2](./Screenshot%202025-07-31%20221528.png)
+### ✅ Prediction: Placed  
+![Screenshot 2](screenshot2.png)
 
-### ❌ Prediction: Not Placed
-![Screenshot 3](./Screenshot%202025-07-31%20221621.png)
+### ❌ Prediction: Not Placed  
+![Screenshot 3](screenshot3.png)
 
 ## ▶️ How to Run
 ```bash
